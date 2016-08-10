@@ -1,0 +1,11 @@
+{
+    "name": "HASServer",
+    "version": "0.0.0",
+    "description": "Home Automation System",
+    "dependencies": {
+        "express": "latest",
+        "python-shell": "latest",
+		"body-parser": "latest"
+    },
+    "author": "scarecrow"
+}
